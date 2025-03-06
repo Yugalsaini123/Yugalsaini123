@@ -9,20 +9,20 @@ You can click the Preview link to take a look at your changes.
 <!-- Contact Info -->
 <p align="center">
   <a href="mailto:yugalsaini2002@gmail.com">yugalsaini2002@gmail.com</a> &bull; +91-7851887249 &bull; Nawalgarh, Rajasthan &bull; 
-  <a href="https://linkedin.com/in/yugal-saini">LinkedIn</a> &bull; 
+  <a href="https://www.linkedin.com/in/yugal-saini/">LinkedIn</a> &bull; 
   <a href="https://github.com/Yugalsaini123">GitHub</a> &bull; 
-  <a href="https://leetcode.com/">LeetCode</a> &bull; 
-  <a href="https://yourportfolio.example">Portfolio</a>
+  <a href="https://leetcode.com/u/Yugalsaini/">LeetCode</a> &bull; 
+  <a href="https://yugalsaini.netlify.app/">Portfolio</a>
 </p>
 
 <!-- About Me -->
 ## About Me
-Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical University with a passion for full-stack development, cloud computing, and distributed systems. I build scalable, customer-centric solutions using technologies like the MERN stack and AWS. I enjoy solving challenging problems and continuously learning—leveraging AI-assisted code generation to boost efficiency while maintaining a deep understanding of system architecture.
+Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical University with a passion for full-stack development, cloud computing, and problem solving. I build scalable, customer-centric solutions using technologies like the MERN stack and AWS. I enjoy solving challenging problems and continuously learning—leveraging AI-assisted code generation to boost efficiency while maintaining a deep understanding of system architecture.
 
 <!-- Languages -->
 ## Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,latex,c" alt="Programming Languages" width="600px">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,latex,c" alt="Programming Languages" width="600px">
 </p>
 
 <!-- Tools & Technology -->
@@ -30,13 +30,13 @@ Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical Univer
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,express,angular,nodejs,mongodb,dotnet" width="200px" alt="Web & Backend">
+      <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet" width="200px" alt="Web & Backend">
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,codepen" width="200px" alt="Dev Tools">
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ai,ps,tailwind,bootstrap,nextjs" width="200px" alt="Design & Other">
+      <img src="https://skillicons.dev/icons?i=figma,ai,tailwind,bootstrap" width="200px" alt="Design & Other">
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@ Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical Univer
   Developed a cloud-based attendance system using AWS Rekognition, Lambda, and DynamoDB for **500+** students—reducing manual effort by **70%** with **95%** accuracy.
 
 - **Real-Time Chat Application** ([GitHub](https://github.com/Yugalsaini123))  
-  Created a WebSocket-based messaging app using Node.js and DynamoDB, supporting **1,000+** concurrent users with a fault-tolerant architecture.
+  Created a WebSocket-based messaging app using Node.js and DynamoDB, support upto **1,000+** concurrent users with a fault-tolerant architecture.
 
 - **Cloud Framework for Student Activity Center** (Ongoing)  
   Building a SaaS platform using React, Node.js, and AWS to manage student roles, events, and resources—implementing role-based access control (RBAC) for **10+** user categories.
@@ -67,7 +67,7 @@ Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical Univer
 - **Python Basics for Data Science** – EdX  
 - **NLP Training** – ONGC  
 - **1st Place**, SQL Quiz Competition – GFG Student Chapter RTU Kota  
-- **Top 10%** in LeetCode (300+ problems solved)
+- 300+ problems solved at Leetcode and GeeksForGeeks
 
 <!-- GitHub Stats -->
 ## GitHub Stats
