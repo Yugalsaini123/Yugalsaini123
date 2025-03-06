@@ -30,7 +30,7 @@ Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical Univer
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet" width="200px" alt="Web & Backend">
+      <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb" width="200px" alt="Web & Backend">
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,codepen" width="200px" alt="Dev Tools">
