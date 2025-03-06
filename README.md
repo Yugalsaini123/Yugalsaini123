@@ -69,22 +69,6 @@ Hello, I'm Yugal Saini, a Computer Science student at Rajasthan Technical Univer
 - **1st Place**, SQL Quiz Competition – GFG Student Chapter RTU Kota  
 - 300+ problems solved at Leetcode and GeeksForGeeks
 
-## LeetCode & GeeksforGeeks Stats
-
-### LeetCode
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Yugalsaini&theme=dark" alt="LeetCode Stats" />
-</p>
-
-### GeeksforGeeks
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/yugalsai381w/?ref=header_profile">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalsai381w&layout=compact&theme=dark" alt="GfG Stats" />
-  </a>
-</p>
-
----
-
 <!-- GitHub Stats -->
 ## GitHub Stats
 <table width="100%">
