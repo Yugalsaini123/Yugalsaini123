@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Contact Info -->
 <p align="center">
-  <a href="mailto:yugalsaini2002@gmail.com">yugalsaini2002@gmail.com</a> &bull; +91-7851887249 &bull; Nawalgarh, Rajasthan &bull; 
+  <a href="mailto:yugalsaini2002@gmail.com">yugalsaini2002@gmail.com</a> &bull;  Nawalgarh, Rajasthan &bull; 
   <a href="https://www.linkedin.com/in/yugal-saini/">LinkedIn</a> &bull; 
   <a href="https://github.com/Yugalsaini123">GitHub</a> &bull; 
   <a href="https://leetcode.com/u/Yugalsaini/">LeetCode</a> &bull; 
